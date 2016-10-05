@@ -2,8 +2,8 @@ c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\bin\Debu
 c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
 c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
 c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojResolveAssemblyReference.cache
-c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.whole.resources
 c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
 c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
 c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
 c:\users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+C:\Users\adam\documents\visual studio 2015\Projects\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
